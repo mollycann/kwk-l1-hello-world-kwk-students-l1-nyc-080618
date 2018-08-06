@@ -1,2 +1,3 @@
 puts "Hello"
-puts "Hello".swapcase
+
+puts "Hello".upcases
