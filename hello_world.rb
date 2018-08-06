@@ -1,2 +1,2 @@
-puts "Hello_World!"
+puts "2+2=5"
 
