@@ -1,3 +1,2 @@
-puts "Hello"
+puts "i love kode with klossy".upcase
 
-puts "Greetings people".length
