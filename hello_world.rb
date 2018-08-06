@@ -1,2 +1,2 @@
 puts "Hello"
-puts "Hello".reverse
+puts "Hello".swapcase
