@@ -1,2 +1,2 @@
-puts "2+2=5"
+puts "molly"
 
