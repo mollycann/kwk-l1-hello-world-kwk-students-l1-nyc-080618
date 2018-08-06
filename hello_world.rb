@@ -1,3 +1,3 @@
 puts "Hello"
 
-puts "Hello".upcase
+puts "Greetings people".length
