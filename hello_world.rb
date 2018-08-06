@@ -1,2 +1,2 @@
 puts "molly"
-puts "molly".downcase
+puts "molly".upcase
