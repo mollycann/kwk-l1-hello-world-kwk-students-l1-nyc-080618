@@ -1,2 +1,2 @@
-puts "i love kode with klossy".upcase.length
+puts "i love kode with klossy".upcase
 
